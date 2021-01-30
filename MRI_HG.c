@@ -1,6 +1,3 @@
-//040200792
-//helin geleri
-//unfortunately, i was unable to solve this question. real maths and the code output were different.
 #include <stdio.h>
 #include <math.h>
 
