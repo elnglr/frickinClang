@@ -1,6 +1,4 @@
-//040200792, helin geleri
-//Hocam bu soruyu dogru anladim mi bilmiyorum ama bir turlu guney, dogu ve guneydogu yonleri harici bir yone gitmiyor
-//ucak ve prediction vektorleri.ilk konumlarindan dolayi mi bilmiyorum ama cozemedim.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -51,7 +49,6 @@ int main()
     // print initial state
     PPIScreen[1][2] = 1;//burayi kendim belirledim
     PPIScreen[2][3] = 1;//burayi da.
-    printf("THANK YOU FOR A PERFECT SEMESTER!!!!\n");
     printf("Initial state of the plane\n");
     printMatrix(&PPIScreen[0][0]);
     printf("\n\n");
